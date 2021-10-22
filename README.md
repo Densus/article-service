@@ -9,7 +9,7 @@ Simple Golang Rest API - Clean Code Architecture
 
 **Overall, the system drawn as the following diagram:**
 
-![](/Users/agungnadapadap/Downloads/article-service.jpeg)
+![](/Users/agungnadapadap/go/src/article_service/article-service.jpeg)
 
 API Testing
 -
